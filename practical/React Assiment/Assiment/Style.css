@@ -1,0 +1,49 @@
+.main {
+    background-color: aqua;
+    height: 100vh;
+    width: 100%;
+}
+
+.Font {
+    text-align: center;
+    padding-top: 200px;
+}
+
+.Count {
+    text-align: center;
+}
+
+.btn1 {
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 129px;
+    font-size: 19px;
+}
+
+.btn2 {
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 129px;
+    font-size: 19px;
+}
+
+.btn3 {
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 129px;
+    font-size: 19px;
+}
+
+.center {
+    display: flex;
+    gap: 50px;
+    padding-left: 510px;
+}
+
+.middle {
+    padding-left: 592px;
+    padding-top: 15px;
+}
