@@ -20,11 +20,11 @@ export default function App() {
       {/* <FunComState /> */}
 
       {/* < IncrementDecrement /> */}
-      {/* < Index /> */}
+      < Index />
 
       {/* <MapList /> */}
       {/*---------------- Webpage-------------- */}
-      <Index />
+
 
 
       {/* Pratice */}
